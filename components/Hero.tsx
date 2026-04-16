@@ -8,8 +8,8 @@ function Hero() {
         autoPlay
         loop
         muted
-        z-1
-        className="w-full h-full object-cover brightness-50  absolute"
+        
+        className="w-full h-full object-cover brightness-50 z-1  absolute"
       >
         <source src="/HeroBg.webm" type="video/webm" />
       </video>
